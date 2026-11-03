@@ -1,0 +1,12 @@
+{
+  "name": "AURA Mobile Companion",
+  "short_name": "AURA",
+  "description": "AURA mobile voice and task capture companion",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d18",
+  "theme_color": "#090d18",
+  "icons": []
+}
